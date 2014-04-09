@@ -1,7 +1,5 @@
 package com.aidiapp.loadapp;
-
 import java.util.List;
-
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
 import org.json.JSONArray;
