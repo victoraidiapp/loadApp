@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-            id="org.apache.cordova.device" version="0.2.3">
+            id="com.aidiapp.loadapp" version="0.0.1">
         <name>LoadApp</name>
         <description>Android Plugin to load an app</description>
         <license>Apache 2.0</license>
