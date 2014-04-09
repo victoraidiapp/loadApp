@@ -6,7 +6,7 @@
         <license>Apache 2.0</license>
         <keywords>cordova,device</keywords>
         <platform name="android">
-		<source-file src="src/android/loadapp.java"
+		<source-file src="src/android/loadextapp.java"
                 target-dir="src/com/aidiapp/loadapp" />
 				
             <config-file target="config.xml" parent="/*">
